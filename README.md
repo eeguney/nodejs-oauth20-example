@@ -30,7 +30,8 @@
  
 
 ## **/auth** - localhost:8000/auth
-
+> **GET**
+> 
  - **/auth/github** --- http://localhost:8000/auth/github (Sign-in with Github)
   - **/auth/google** --- http://localhost:8000/auth/google (Sign-in with Google)
    - **/auth/logout** --- http://localhost:8000/auth/logout (Log out)

@@ -1,7 +1,7 @@
 {
-  "name": "ayna.shop-api",
+  "name": "nodejs-oauth20-example",
   "version": "1.0.0",
-  "description": "API for ayna.shop",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "start": "ts-node ./src/index.ts"
   },
   "keywords": [
-    "aynashop"
+    "oauth, nodejs"
   ],
   "author": "Emre Güney",
   "license": "ISC",
